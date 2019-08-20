@@ -1,0 +1,9 @@
+amazon:
+  access:
+    key: myKeyId
+    secret-key: mySecretAccessKey
+  region: region
+  end-point:
+    url: http://localhost:8000
+server:
+  port: 9001
